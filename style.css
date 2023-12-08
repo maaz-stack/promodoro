@@ -1,0 +1,80 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+#waqt {
+    font-size: 2em;
+    margin: 20px 0;
+}
+
+button {
+    font-size: 1em;
+    padding: 10px 20px;
+    margin: 0 10px;
+}
+
+body {
+    background: #FAFAFA;
+    box-sizing: border-box !important;
+}
+.container {
+    padding: 30px !important;
+    box-shadow: 0 0 10px -2px rgba(0,0,0,0.12);
+    border-radius: 16px !important;
+    background: #fff;
+}
+h1 {
+    margin-top: 0 !important;
+    font-family: cursive !important;
+    font-size: 30px !important;
+    color: #111;
+}
+label {
+    width: 100% !important;
+    display: block !important;
+    text-align: left;
+    font-size: 13px !important;
+    font-family: cursive !IMPORTANT;
+    color: #666 !important;
+}
+input[type="number"] {
+    width: 100% !important;
+    border-radius: 50px !important;
+    border: 1px solid #999;
+    padding: 8px 14px !important;
+    font-size: 12px !important;
+    font-family: cursive !important;
+    color: #666;
+    margin-top: 5px !important;
+}
+* {
+    box-sizing: border-box !important;
+}
+input#workDuration {
+    margin-bottom: 10px !important;
+}
+
+div#waqt {
+    font-size: 27px !important;
+    font-family: cursive !important;
+    color: #568331;
+}
+button {
+    border-radius: 50px !important;
+    border: unset !important;
+    background: #568331;
+    color: #fff !important;
+    font-family: cursive !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    padding: 12px 24px !important;
+    width: 140px !important;
+}
